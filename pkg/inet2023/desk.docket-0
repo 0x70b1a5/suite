@@ -1,0 +1,10 @@
+:~  title+'Invisible Networks 2023'
+    info+'Invent a weird/magical/terrifying social network every day.'
+    color+0xff.dbb1
+    image+'https://user-images.githubusercontent.com/10970247/229260181-2232cced-5fbc-43dd-aadb-19b1afbd1f2e.png'
+    site+/invisible-networks
+    base+'inet2022'
+    version+[1 0 0]
+    website+'https://invisible.social/'
+    license+'MIT'
+==
